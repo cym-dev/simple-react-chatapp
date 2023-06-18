@@ -1,0 +1,22 @@
+--user
+-name str
+-email str
+-password str
+
+--chat
+-name str
+-isGroupChat bool
+-latestMessage objectId
+-groupAdmin objectId
+-users array of objecteIds
+
+--Messages
+-senderId objectId
+-content str
+-chatId  objectId
+--seen objectId
+
+--notification
+-name
+-isSeen
+-userId

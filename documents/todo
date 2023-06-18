@@ -1,0 +1,29 @@
+Create a simple chat app
+- Essential CRUD operations
+- Have a client and a server module
+- Events and activities should be in real time(eg. Notifications, chats &amp; etc)
+- Should be accomplished within 2hrs and not more than 3hrs
+- Components must have
+- Login and account functionality
+- Contact list
+- Chat history
+- Contact headers and options
+- Chat composer
+- Notification
+- Optional:
+- File upload
+- Avatar
+- Emojis
+- Image viewer
+- WYSIWYG editor
+- Online status
+- Conference/Group Chat
+
+- Criteria for evaluation
+- Able to follow instructions
+- Able to work under supervision and time pressure
+- Able to demonstrate proper use of variables and functions
+- Able to utilize OOP and modular accordingly
+- Able to complete and create a working sample application
+- Able to write a clean and organize code program
+- Able to demonstrate his/her skills on using NodeJS/Javascript
