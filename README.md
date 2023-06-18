@@ -15,7 +15,7 @@
 
 <ol>
 <li>npm install</li>
-<li>cd clinet</li>
+<li>cd client</li>
 <li>npm install --legacy-peer-deps</li>
 <li>npm start</li>
 <li>open new terminal</li>
