@@ -22,3 +22,5 @@
 <li>npm run dev</li>
 <li>import user.json to mongodb compass</li>
 </ol>
+
+<p>This is sample@gmail.com user@gmail.com the password is <b>password</b></p>

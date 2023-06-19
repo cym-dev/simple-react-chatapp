@@ -11,9 +11,8 @@ import {
 } from "mdb-react-ui-kit";
 import { auth } from "../../../components/utilities";
 import { useNavigate } from "react-router-dom";
-import { toast } from "react-toastify";
-import axios from "axios";
 import { login } from "../../../services";
+import Logo from "./../../../assets/images/logo.png";
 
 const Login = () => {
   const navigate = useNavigate(),
@@ -43,7 +42,7 @@ const Login = () => {
           className={`text-center d-flex align-items-center offset-md-3`}
         >
           <MDBContainer fluid>
-            <img src={""} className="img-fluid mx-auto" alt="Logo" />
+            <img src={Logo} className="img-fluid mx-auto" alt="Logo" />
             <MDBContainer fluid className="p-0">
               <form onSubmit={handleSubmit} autoComplete="off">
                 <MDBInput
