@@ -20,4 +20,5 @@
 <li>npm start</li>
 <li>open new terminal</li>
 <li>npm run dev</li>
+<li>import user.json to mongodb compass</li>
 </ol>
